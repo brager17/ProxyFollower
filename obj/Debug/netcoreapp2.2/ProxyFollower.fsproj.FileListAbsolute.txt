@@ -8,3 +8,13 @@ C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2
 C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.AssemblyInfo.fs
 C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.dll
 C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.pdb
+C:\Users\Евгений\Documents\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.deps.json
+C:\Users\Евгений\Documents\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.runtimeconfig.json
+C:\Users\Евгений\Documents\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.dll
+C:\Users\Евгений\Documents\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.pdb
+C:\Users\Евгений\Documents\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.fsprojAssemblyReference.cache
+C:\Users\Евгений\Documents\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.AssemblyInfo.fs
+C:\Users\Евгений\Documents\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.dll
+C:\Users\Евгений\Documents\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.pdb

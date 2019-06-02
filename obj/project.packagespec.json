@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\ProxyFollower.fsproj",
+    "projectUniqueName": "C:\\Users\\Евгений\\Documents\\ProxyFollower\\ProxyFollower.fsproj",
     "projectName": "ProxyFollower",
-    "projectPath": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\ProxyFollower.fsproj",
-    "outputPath": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\obj\\",
+    "projectPath": "C:\\Users\\Евгений\\Documents\\ProxyFollower\\ProxyFollower.fsproj",
+    "outputPath": "C:\\Users\\Евгений\\Documents\\ProxyFollower\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13,7 +13,6 @@
       "netcoreapp2.2"
     ],
     "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -31,7 +30,15 @@
         },
         "FSharp.Core": {
           "target": "Package",
-          "version": "[4.5.2, )"
+          "version": "[4.6.2, )"
+        },
+        "FSharp.Data": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        },
+        "FSharp.Json": {
+          "target": "Package",
+          "version": "[0.3.7, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",

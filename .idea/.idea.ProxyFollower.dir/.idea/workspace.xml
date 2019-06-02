@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fb29afb-b1bc-430e-adbb-c7d121fe7061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProxyFollower.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProxyFollower.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.fs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyFollower.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyFollower.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.AssemblyInfo.fs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.AssemblyInfo.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.fsproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.fsproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.fsprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.fsprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/ProxyFollower.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ProxyFollower.fsproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Program.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+              <folding>
+                <marker date="1559487422537" expanded="true" signature="5:192" ph="..." />
+                <marker date="1559487422537" expanded="true" signature="269:345" ph="= { ..." />
+                <marker date="1559487422537" expanded="true" signature="362:409" ph="= ..." />
+                <marker date="1559487422537" expanded="true" signature="368:409" ph="{ ..." />
+                <marker date="1559487422537" expanded="true" signature="440:490" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="538:585" ph="= ..." />
+                <marker date="1559487422537" expanded="true" signature="623:818" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="730:818" ph=" ..." />
+                <marker date="1559487422537" expanded="true" signature="850:870" ph="= ..." />
+                <marker date="1559487422537" expanded="true" signature="883:979" ph="= { ..." />
+                <marker date="1559487422537" expanded="true" signature="1010:1039" ph="= ..." />
+                <marker date="1559487422537" expanded="true" signature="1072:1096" ph="= ..." />
+                <marker date="1559487422537" expanded="true" signature="1127:5495" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="1166:1589" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="1190:1418" ph=" = Http.AsyncRequestString ( ..." />
+                <marker date="1559487422537" expanded="true" signature="1243:1417" ph="url, ..." />
+                <marker date="1559487422537" expanded="true" signature="1430:1589" ph=" ..." />
+                <marker date="1559487422537" expanded="true" signature="1444:1539" ph=" = async { ..." />
+                <marker date="1559487422537" expanded="true" signature="1569:1589" ph=" ..." />
+                <marker date="1559487422537" expanded="true" signature="1753:1968" ph=" = Json.deserialize&lt;proxy list&gt; (File.ReadAllText &quot;prox.json&quot;) ..." />
+                <marker date="1559487422537" expanded="true" signature="1991:4142" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="2049:2104" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="2154:2232" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="2288:2435" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="2486:3080" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="2693:3049" ph=" -&gt; ..." />
+                <marker date="1559487422537" expanded="true" signature="2860:3048" ph=" IpAddress = createIpAddress tds.[0] tds.[1]; ..." />
+                <marker date="1559487422537" expanded="true" signature="3135:3265" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="3312:3347" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="3946:4105" ph=" = [ 1..4 ] |&gt; List.map (fun _ -&gt; ..." />
+                <marker date="1559487422537" expanded="true" signature="3976:4089" ph=" -&gt; ..." />
+                <marker date="1559487422537" expanded="true" signature="4176:4273" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="4359:4611" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="4384:4596" ph=" = actor { ..." />
+                <marker date="1559487422537" expanded="true" signature="4470:4558" ph=" ..." />
+                <marker date="1559487422537" expanded="true" signature="4658:4875" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="4683:4860" ph=" = actor { ..." />
+                <marker date="1559487422537" expanded="true" signature="4769:4822" ph=" ..." />
+                <marker date="1559487422537" expanded="true" signature="4948:5451" ph=" = ..." />
+                <marker date="1559487422537" expanded="true" signature="4972:5157" ph=" = actor { ..." />
+                <marker date="1559487422537" expanded="true" signature="5058:5116" ph=" ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CC4DA4C-48FC-C285-A745-03834CDAC45C/b8/39b360da/JsonParser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/68/8a5ddf3f/Internal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6825">
+              <caret line="460" column="10" selection-start-line="460" selection-start-column="10" selection-end-line="460" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/c6/e0feca2a/SeqModule.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12540">
+              <caret line="847" column="70" selection-start-line="847" selection-start-column="70" selection-end-line="847" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CC4DA4C-48FC-C285-A745-03834CDAC45C/b8/39b360da/JsonParser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/68/8a5ddf3f/Internal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/c6/e0feca2a/SeqModule.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JsonHandler.fsx" />
+        <option value="$PROJECT_DIR$/input.json" />
+        <option value="$PROJECT_DIR$/Program.fs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="131" />
+    <option name="y" value="37" />
+    <option name="width" value="1734" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ProxyFollower" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ProxyFollower.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ProxyFollower.fsproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fb29afb-b1bc-430e-adbb-c7d121fe7061" name="Default Changelist" comment="" />
+      <created>1559477358986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559477358986</updated>
+      <workItem from="1559477364537" duration="5681000" />
+      <workItem from="1559483622335" duration="3831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9512000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14217253" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31629393" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.37699682" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3290735" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Program.fs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/Program.fs" initialLine="77">
+            <startOffsets>
+              <option value="1743" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1847" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Program.fs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/Program.fs" initialLine="61">
+            <startOffsets>
+              <option value="1177" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1418" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JsonHandler.fsx" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/68/8a5ddf3f/Internal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6825">
+          <caret line="460" column="10" selection-start-line="460" selection-start-column="10" selection-end-line="460" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C64A998-DFF9-FAE1-A745-038398A9645C/c6/e0feca2a/SeqModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12540">
+          <caret line="847" column="70" selection-start-line="847" selection-start-column="70" selection-end-line="847" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CC4DA4C-48FC-C285-A745-03834CDAC45C/b8/39b360da/JsonParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <marker date="1559487422537" expanded="true" signature="5:192" ph="..." />
+            <marker date="1559487422537" expanded="true" signature="269:345" ph="= { ..." />
+            <marker date="1559487422537" expanded="true" signature="362:409" ph="= ..." />
+            <marker date="1559487422537" expanded="true" signature="368:409" ph="{ ..." />
+            <marker date="1559487422537" expanded="true" signature="440:490" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="538:585" ph="= ..." />
+            <marker date="1559487422537" expanded="true" signature="623:818" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="730:818" ph=" ..." />
+            <marker date="1559487422537" expanded="true" signature="850:870" ph="= ..." />
+            <marker date="1559487422537" expanded="true" signature="883:979" ph="= { ..." />
+            <marker date="1559487422537" expanded="true" signature="1010:1039" ph="= ..." />
+            <marker date="1559487422537" expanded="true" signature="1072:1096" ph="= ..." />
+            <marker date="1559487422537" expanded="true" signature="1127:5495" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="1166:1589" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="1190:1418" ph=" = Http.AsyncRequestString ( ..." />
+            <marker date="1559487422537" expanded="true" signature="1243:1417" ph="url, ..." />
+            <marker date="1559487422537" expanded="true" signature="1430:1589" ph=" ..." />
+            <marker date="1559487422537" expanded="true" signature="1444:1539" ph=" = async { ..." />
+            <marker date="1559487422537" expanded="true" signature="1569:1589" ph=" ..." />
+            <marker date="1559487422537" expanded="true" signature="1753:1968" ph=" = Json.deserialize&lt;proxy list&gt; (File.ReadAllText &quot;prox.json&quot;) ..." />
+            <marker date="1559487422537" expanded="true" signature="1991:4142" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="2049:2104" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="2154:2232" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="2288:2435" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="2486:3080" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="2693:3049" ph=" -&gt; ..." />
+            <marker date="1559487422537" expanded="true" signature="2860:3048" ph=" IpAddress = createIpAddress tds.[0] tds.[1]; ..." />
+            <marker date="1559487422537" expanded="true" signature="3135:3265" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="3312:3347" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="3946:4105" ph=" = [ 1..4 ] |&gt; List.map (fun _ -&gt; ..." />
+            <marker date="1559487422537" expanded="true" signature="3976:4089" ph=" -&gt; ..." />
+            <marker date="1559487422537" expanded="true" signature="4176:4273" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="4359:4611" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="4384:4596" ph=" = actor { ..." />
+            <marker date="1559487422537" expanded="true" signature="4470:4558" ph=" ..." />
+            <marker date="1559487422537" expanded="true" signature="4658:4875" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="4683:4860" ph=" = actor { ..." />
+            <marker date="1559487422537" expanded="true" signature="4769:4822" ph=" ..." />
+            <marker date="1559487422537" expanded="true" signature="4948:5451" ph=" = ..." />
+            <marker date="1559487422537" expanded="true" signature="4972:5157" ph=" = actor { ..." />
+            <marker date="1559487422537" expanded="true" signature="5058:5116" ph=" ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
