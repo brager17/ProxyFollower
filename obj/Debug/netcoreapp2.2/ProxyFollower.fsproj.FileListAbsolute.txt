@@ -1,0 +1,10 @@
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.deps.json
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.runtimeconfig.json
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.runtimeconfig.dev.json
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.dll
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\bin\Debug\netcoreapp2.2\ProxyFollower.pdb
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.fsprojAssemblyReference.cache
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.AssemblyInfoInputs.cache
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.AssemblyInfo.fs
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.dll
+C:\Users\evgeniy\RiderProjects\ProxyFollower\ProxyFollower\obj\Debug\netcoreapp2.2\ProxyFollower.pdb

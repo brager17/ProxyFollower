@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\ProxyFollower.fsproj",
+    "projectName": "ProxyFollower",
+    "projectPath": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\ProxyFollower.fsproj",
+    "outputPath": "C:\\Users\\evgeniy\\RiderProjects\\ProxyFollower\\ProxyFollower\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Akka.FSharp": {
+          "target": "Package",
+          "version": "[1.3.13, )"
+        },
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[4.5.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.2, )"
+        },
+        "Selenium.Chrome.WebDriver": {
+          "target": "Package",
+          "version": "[74.0.0, )"
+        },
+        "Selenium.WebDriver": {
+          "target": "Package",
+          "version": "[4.0.0-alpha01, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
